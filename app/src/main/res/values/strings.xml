@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tareas Inteligentes</string>
+    <string name="SplashTitle">Organizador de Tareas</string>
+    <string name="encontrado">No hay resultados</string>
+    <string-array name="months_array">
+        <item>ENE</item>
+        <item>FEB</item>
+        <item>MAR</item>
+        <item>ABR</item>
+        <item>MAY</item>
+    </string-array>
+
+</resources>
